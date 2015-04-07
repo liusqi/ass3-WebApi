@@ -97,4 +97,3 @@ C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\zh-Hans\Sy
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.Migrations.LookupMigrations.InitialCreate.resources
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.csproj.GenerateResource.Cache
-C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.csprojResolveAssemblyReference.cache
