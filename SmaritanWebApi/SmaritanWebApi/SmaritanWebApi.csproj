@@ -211,41 +211,6 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\LookupControllers\AbuserRelationshipsController.cs" />
-    <Compile Include="Controllers\LookupControllers\AgesController.cs" />
-    <Compile Include="Controllers\LookupControllers\AssignedWorkersController.cs" />
-    <Compile Include="Controllers\LookupControllers\CrisesController.cs" />
-    <Compile Include="Controllers\LookupControllers\DuplicateFilesController.cs" />
-    <Compile Include="Controllers\LookupControllers\EthnicitiesController.cs" />
-    <Compile Include="Controllers\LookupControllers\FamilyViolenceFilesController.cs" />
-    <Compile Include="Controllers\LookupControllers\FiscalYearsController.cs" />
-    <Compile Include="Controllers\LookupControllers\IncidentsController.cs" />
-    <Compile Include="Controllers\LookupControllers\ProgramsController.cs" />
-    <Compile Include="Controllers\LookupControllers\ReferralContactsController.cs" />
-    <Compile Include="Controllers\LookupControllers\ReferralSourcesController.cs" />
-    <Compile Include="Controllers\LookupControllers\RepeatClientsController.cs" />
-    <Compile Include="Controllers\LookupControllers\RiskLevelsController.cs" />
-    <Compile Include="Controllers\LookupControllers\RiskStatusController.cs" />
-    <Compile Include="Controllers\LookupControllers\ServicesController.cs" />
-    <Compile Include="Controllers\LookupControllers\StatusOfFilesController.cs" />
-    <Compile Include="Controllers\LookupControllers\VictimOfIncidentsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\BadDateReportsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\CityOfAssaultsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\CityOfResidencesController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\DrugFacilitatedAssaultsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\EvidenceStoredsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\HIVMedsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\HospitalAttendedsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\MedicalOnliesController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\MultiplePerpetratorsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\PoliceAttendancesController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\PoliceReportedsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\ReferredToCBVSController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\ReferringHospitalsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\SexWorkExploitationsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\SocialWorkAttendancesController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\ThirdPartyReportsController.cs" />
-    <Compile Include="Controllers\SmartLookupControllers\VictimOfIncidentsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -492,6 +457,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\LookupControllers\" />
+    <Folder Include="Controllers\SmartLookupControllers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
