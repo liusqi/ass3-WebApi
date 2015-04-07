@@ -60,7 +60,6 @@ C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\Microsoft.
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\System.Web.Http.Owin.xml
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.pdb
-C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.csprojResolveAssemblyReference.cache
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\Microsoft.Data.Edm.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\Microsoft.Data.OData.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\System.Spatial.dll
@@ -96,3 +95,5 @@ C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\ko\System.
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\ru\System.Spatial.resources.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.Migrations.LookupMigrations.InitialCreate.resources
+C:\Users\Songqi\Desktop\ass3-WebApi\SmaritanWebApi\SmaritanWebApi\obj\Debug\SmaritanWebApi.csproj.GenerateResource.Cache

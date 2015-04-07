@@ -250,6 +250,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\LookupMigrations\201504070350224_InitialCreate.cs" />
+    <Compile Include="Migrations\LookupMigrations\201504070350224_InitialCreate.Designer.cs">
+      <DependentUpon>201504070350224_InitialCreate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\LookupMigrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -495,6 +499,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\LookupMigrations\201504070350224_InitialCreate.resx">
+      <DependentUpon>201504070350224_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
